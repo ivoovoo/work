@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8de1b79.css",
+    "main.js": "/static/js/main.4945116e.js",
+    "static/media/dark-photo.png": "/static/media/dark-photo.a3fd56f757f63f156477.png",
+    "static/media/image-2.svg": "/static/media/image-2.53e0c4ea5335559afdf395eaf14728a2.svg",
+    "static/media/image-1.png": "/static/media/image-1.b0ea32ad025a5d655e87.png",
+    "static/media/image-3.png": "/static/media/image-3.f9cb928ddc5ef418f5b0.png",
+    "static/media/Kanit-Bold.ttf": "/static/media/Kanit-Bold.46cd98a815b9874526ad.ttf",
+    "static/media/image-4.svg": "/static/media/image-4.86855129e2e7d424d71f4ed30b13ca74.svg",
+    "static/media/OpenSans-ExtraBold.ttf": "/static/media/OpenSans-ExtraBold.e390d6021c37c9e132bf.ttf",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.c790f99966352c531503.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.b8cc747a58ffa52b7ff9.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/static/media/OpenSans-SemiBold.c7ab78a511011d4e147e.ttf",
+    "static/media/Prata-Regular.ttf": "/static/media/Prata-Regular.2eeab737052a4ae3b2a9.ttf",
+    "static/media/Futura-Bold.ttf": "/static/media/Futura-Bold.fe52c102f5d8a1f9043c.ttf",
+    "static/media/skeleton.svg": "/static/media/skeleton.32c0160620982ba10f5c54a0af683b7a.svg",
+    "static/media/DMSans-Medium.ttf": "/static/media/DMSans-Medium.3b0ba81ccb599b9c3f61.ttf",
+    "static/media/DMSans-Regular.ttf": "/static/media/DMSans-Regular.36401d66ca415d09e170.ttf",
+    "static/media/icons.svg": "/static/media/icons.46bc73e63349cf60e551a70fb5e139ae.svg",
+    "static/media/Futura-Medium.ttf": "/static/media/Futura-Medium.53b187b42ca229d2a43d.ttf",
+    "static/media/image-1.svg": "/static/media/image-1.5c73734a3691d568b17902c4e83dd6a7.svg",
+    "index.html": "/index.html",
+    "main.f8de1b79.css.map": "/static/css/main.f8de1b79.css.map",
+    "main.4945116e.js.map": "/static/js/main.4945116e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8de1b79.css",
+    "static/js/main.4945116e.js"
+  ]
+}
